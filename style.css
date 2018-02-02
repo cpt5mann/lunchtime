@@ -1,0 +1,23 @@
+#title{
+    font-family: 'Rammetto One', cursive;
+}
+
+body{
+    text-align: center;
+    align-content: center;
+background-color:blue;
+}
+
+#btn{
+color:white;
+background-color:black;
+font-family: 'Rammetto One', cursive;
+}
+img{
+    height:300px;
+    
+}
+    p{ 
+        display: inline;
+      }
+      
